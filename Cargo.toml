@@ -1,6 +1,8 @@
 [package]
 name = "xgy"
+description = "Text converter for Egyptian Hieroglyphs"
 version = "0.1.0"
-authors = ["giles <giles@thaumas.net>"]
+authors = ["Ralph Giles <giles@thaumas.net>"]
+license = "GPL-3.0-only"
 
 [dependencies]
