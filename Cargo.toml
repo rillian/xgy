@@ -1,0 +1,6 @@
+[package]
+name = "xgy"
+version = "0.1.0"
+authors = ["giles <giles@thaumas.net>"]
+
+[dependencies]
