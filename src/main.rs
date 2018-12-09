@@ -10,7 +10,6 @@ fn main() {
                      .replace("ẖ", "X")
                      .replace("ṯ", "T")
                      .replace("ḏ", "D");
-        println!("arg: {} -> {}", arg, mdc);
+        println!("{}", mdc);
     }
-    println!("That's all!");
 }
